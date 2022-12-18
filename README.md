@@ -1,2 +1,2 @@
 # Operating-Systems
-Assignments for the Operating Systems course at Kent State University.
+Assignment 1 for the Operating Systems course at Kent State University.
